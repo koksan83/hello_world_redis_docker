@@ -15,10 +15,10 @@ Files:
 - /code/HelloWorldRedis.py - 'Hello World' Python Flask web app that increments counter in Redis and prints it out
 
 To start:
-fig up
+$ fig up
 
 To access:
-curl ($ip):5000
+$ curl ($ip):5000
 
 Note:
 - Lowercase repo/encasing folder name is required to avoid an issue that causes the web container build from the Dockerfile to fail
