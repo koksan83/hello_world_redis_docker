@@ -1,10 +1,10 @@
 # HelloWorldRedisDocker
 
+Testing Docker multi-container app implementation, modified example from http://www.fig.sh
+
 Assumptions:
 - Docker Fig is installed on the running host
-- Fig installation instructions please refer to: http://www.fig.sh/install.html
-
-Testing Docker multi-container app implementation, modified example from http://www.fig.sh
+- Fig installation instructions: http://www.fig.sh/install.html
 
 Files:
 - Dockerfile - Dockerfile to build web-tier container
