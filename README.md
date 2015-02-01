@@ -4,7 +4,7 @@ Assumptions:
 - Docker Fig is installed on the running host
 - Fig installation instructions please refer to: http://www.fig.sh/install.html
 
-Trying out the Docker multi-container example from http://www.fig.sh
+Testing Docker multi-container app implementation, modified example from http://www.fig.sh
 
 To run:
 fig up
