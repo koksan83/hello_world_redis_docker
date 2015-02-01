@@ -1,4 +1,4 @@
-# hello_world_redis_docker
+# HelloWorldRedisDocker
 
 Assumptions:
 - Docker Fig is installed on the running host
